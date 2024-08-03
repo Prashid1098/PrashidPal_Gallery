@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPal_Gallery/static/css/main.8b4b880a.css",
+    "main.js": "/PrashidPal_Gallery/static/js/main.96d0ac21.js",
+    "index.html": "/PrashidPal_Gallery/index.html",
+    "main.8b4b880a.css.map": "/PrashidPal_Gallery/static/css/main.8b4b880a.css.map",
+    "main.96d0ac21.js.map": "/PrashidPal_Gallery/static/js/main.96d0ac21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4b880a.css",
+    "static/js/main.96d0ac21.js"
+  ]
+}
